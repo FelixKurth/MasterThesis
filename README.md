@@ -8,7 +8,7 @@ For the experiments, several methods to construct prediction intervals are evalu
 - Jackknife+ after Bootstrap (https://www.stat.uchicago.edu/~rina/jackknife+-after-bootstrap_realdata.html)
 - Concrete Dropout (https://github.com/yaringal/ConcreteDropout)
 - Split Conformap Prediction
-- Cross Conformal Prediction (https://github.com/alexcontarino/Constructing-Prediction-Intervals-for-Neural-Networks/ tree/main)
+- Cross Conformal Prediction (https://github.com/alexcontarino/Constructing-Prediction-Intervals-for-Neural-Networks/tree/main)
 - Lower Upper Bound Estimation (https://github.com/TeaPearce/Deep_Learning_Prediction_Intervals)
 - Mean Variance Estimation (https://github.com/LaurensSluyterman/Mean_Variance_Estimation)
 
