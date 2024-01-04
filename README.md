@@ -14,6 +14,11 @@ For the experiments, several methods to construct prediction intervals are evalu
 
 The original time series data is confidential. However, the code works for time series data in a csv file format with two columns: a date and a demand column.
 
-Structure:
+# Structure:
 - [Main Evaluation](auswertung.ipynb)
 - [Lower Upper Bound Estimation Evaluation](HQ_Pearce_QQ_Good.ipynb)
+
+# Considerations:
+- Jacknife+ after Bootstrap is computationally demanding for small significance values (0.01)
+- Not every cell output represents the actual values depicted in the master thesis
+- For better overview, consider downloading the files instead of opening them in github because no cell output is truncated
