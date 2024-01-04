@@ -13,3 +13,7 @@ For the experiments, several methods to construct prediction intervals are evalu
 - Mean Variance Estimation (https://github.com/LaurensSluyterman/Mean_Variance_Estimation)
 
 The original time series data is confidential. However, the code works for time series data in a csv file format with two columns: a date and a demand column.
+
+Structure:
+- [Main Evaluation](auswertung.ipynb)
+- [Lower Upper Bound Estimation Evaluation](HQ_Pearce_QQ_Good.ipynb)
